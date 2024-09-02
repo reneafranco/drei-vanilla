@@ -1,7 +1,6 @@
 import { shaderMaterial } from './shaderMaterial'
 import * as THREE from 'three'
-import { toCreasedNormals } from 'three/examples/jsm/utils/BufferGeometryUtils.js
-	'
+import { toCreasedNormals } from 'three/examples/jsm/utils/BufferGeometryUtils.js'
 
 export type OutlinesProps = {
   /** Outline color, default: black */
