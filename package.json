@@ -1,6 +1,6 @@
 {
   "name": "@pmndrs/vanilla",
-  "version": "version": "1.19.2",
+  "version": "version": "1.19.1",
   "private": true,
   "publishConfig": {
     "access": "public"
